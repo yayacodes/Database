@@ -27,7 +27,7 @@ The commands for the project are as follows:
 
 `makenull` reintializes an empty database
 
-##Instructions to run
+## Instructions to run
 I run this app using the gradle file included in this project! The command to compile is `gradle build` and to run is `gradle run`
 
 Hope you enjoy! All feedback is appreciated! 
